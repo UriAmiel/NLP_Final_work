@@ -5,7 +5,7 @@ We created this project as a final project of NLP course that was given in Reich
 
 In order to run our notebook:
 
-1. Open the notebook. Link: https://colab.research.google.com/drive/1yM4589wQZOlogyYXhzLgYzLm2FkIMdgw?usp=sharing#scrollTo=IzRCYmAqcuWK
+1. Open the notebook. Link: https://colab.research.google.com/drive/1XEbCmm9UiQw5_GBn3_Nro-CxmgBRb4pr?usp=sharing
 2. Drag & Drop these 4 files (from OLID folder in this project):
 
     a.testset-levela.tsv
