@@ -7,8 +7,12 @@ In order to run our notebook:
 
 1. Open the notebook. Link:
 2. Drag & Drop these 4 files (from OLID folder in this project):
-    a.testset-levela.tsv \n
-    b.testset-levelb.tsv \n
-    c.testset-levelc.tsv \n 
-    d.olid-training-v1.0.tsv \n
+    a.testset-levela.tsv
+    
+    b.testset-levelb.tsv
+    
+    c.testset-levelc.tsv 
+    
+    d.olid-training-v1.0.tsv
+    
 3. Run the code in google CoLab (by using run all)
